@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="github"
+            fetch="https://github.com/" />
+    <default revision="refs/heads/master"
+             remote="github"
+             sync-j="4" />
+
+    <!-- MIRAI parts -->
+
+    <project name="vnma0/hestia" remote="github" path="hestia" />
+    <project name="vnma0/kon" remote="github" path="kon" />
+    <project name="vnma0/wafter" remote="github" path="wafter" />
+</manifest>
