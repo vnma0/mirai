@@ -8,7 +8,7 @@ If you're on Linux, you can use the [default `repo` script provided by the Andro
 
 To initialize your local repository with Mirai's trees, use something like this :
 ```
-repo init -u https://github.com/vnma0/mirai
+repo init -u https://github.com/vnma0/mirai-repo
 ```
 Then to sync up everything :
 ```
